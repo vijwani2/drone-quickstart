@@ -7,7 +7,7 @@ steps:
 - name: hello
   image: busybox
   commands:
-  - echo Hello from Harness via Anmol
+  - echo Hello from Harness Msys
  
 trigger:
   branch:
